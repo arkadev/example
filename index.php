@@ -43,7 +43,7 @@ $result = $apiConsumer->doApiCall();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>API Consumer Example</title>
+    <title>Example CI_Travis_PHPUnit</title>
 </head>
 <body>
 <h1>API Consumer Example (output parsed JSON result array)</h1>
